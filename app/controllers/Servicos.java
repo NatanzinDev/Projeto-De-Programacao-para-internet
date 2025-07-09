@@ -11,5 +11,9 @@ public class Servicos extends Controller{
 	public static void form() {
         render();
  }
+	
+	public static void salvar() {
+		
+	}
 
 }
